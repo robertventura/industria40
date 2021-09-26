@@ -1,6 +1,0 @@
-site_name: Industria 4.0 - Robert Ventura
-site_url: https://robertventura.github.io/industria40/
-nav:
-  - Home: index.md
-  - About: about.md
-#theme: readthedocs
